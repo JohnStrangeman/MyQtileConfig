@@ -15,4 +15,4 @@ makepkg -si
 
 yay -Syy
 
-yay -S gtk3 gtk2 kitty neofetch qtile qtile-extras rofi python thunar --needed --noconfirm
+yay -S gtk3 gtk2 kitty neofetch qtile qtile-extras rofi python --needed --noconfirm
