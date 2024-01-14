@@ -15,4 +15,7 @@ makepkg -si
 
 yay -Syy
 
-yay -S gtk3 gtk2 kitty neofetch qtile qtile-extras rofi python --needed --noconfirm
+yay -S gtk3 gtk2 kitty neofetch qtile qtile-extras rofi python eza oh-my-zsh-git zsh-theme-powerlevel10k-git pokemon-colorscripts-git --needed --noconfirm
+cd $ZSH_CUSTOM/plugins && git clone https://github.com/chrissicool/zsh-256color
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
