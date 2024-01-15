@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/john/wallpapers/chainsaw_makima.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1f1524",
+        "foreground": "#d4c7dc",
+        "cursor": "#d4c7dc"
+    },
+    "colors": {
+        "color0": "#1f1524",
+        "color1": "#6D5E8B",
+        "color2": "#A26594",
+        "color3": "#D8689A",
+        "color4": "#7E82AD",
+        "color5": "#E18DB1",
+        "color6": "#AC9CD0",
+        "color7": "#d4c7dc",
+        "color8": "#948b9a",
+        "color9": "#6D5E8B",
+        "color10": "#A26594",
+        "color11": "#D8689A",
+        "color12": "#7E82AD",
+        "color13": "#E18DB1",
+        "color14": "#AC9CD0",
+        "color15": "#d4c7dc"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/john/wallpapers/rain_world3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a070a",
+        "foreground": "#c2a7cd",
+        "cursor": "#c2a7cd"
+    },
+    "colors": {
+        "color0": "#0a070a",
+        "color1": "#382667",
+        "color2": "#4B315F",
+        "color3": "#624D69",
+        "color4": "#856671",
+        "color5": "#5B3887",
+        "color6": "#6A5395",
+        "color7": "#c2a7cd",
+        "color8": "#87748f",
+        "color9": "#382667",
+        "color10": "#4B315F",
+        "color11": "#624D69",
+        "color12": "#856671",
+        "color13": "#5B3887",
+        "color14": "#6A5395",
+        "color15": "#c2a7cd"
+    }
+}

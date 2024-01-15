@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/john/wallpapers/hanged_man_tree.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#06121B",
+        "foreground": "#c9baaa",
+        "cursor": "#c9baaa"
+    },
+    "colors": {
+        "color0": "#06121B",
+        "color1": "#5F6158",
+        "color2": "#4F6C6A",
+        "color3": "#6C7469",
+        "color4": "#98795A",
+        "color5": "#C17F53",
+        "color6": "#788273",
+        "color7": "#c9baaa",
+        "color8": "#8c8276",
+        "color9": "#5F6158",
+        "color10": "#4F6C6A",
+        "color11": "#6C7469",
+        "color12": "#98795A",
+        "color13": "#C17F53",
+        "color14": "#788273",
+        "color15": "#c9baaa"
+    }
+}

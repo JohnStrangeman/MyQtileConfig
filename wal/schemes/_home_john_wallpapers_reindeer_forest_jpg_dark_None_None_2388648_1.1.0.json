@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/john/wallpapers/reindeer_forest.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#47434c",
+        "foreground": "#f3e3c9",
+        "cursor": "#f3e3c9"
+    },
+    "colors": {
+        "color0": "#47434c",
+        "color1": "#BAA2A2",
+        "color2": "#C49B83",
+        "color3": "#D4AC9A",
+        "color4": "#EAB995",
+        "color5": "#C8A7A1",
+        "color6": "#F6C994",
+        "color7": "#f3e3c9",
+        "color8": "#aa9e8c",
+        "color9": "#BAA2A2",
+        "color10": "#C49B83",
+        "color11": "#D4AC9A",
+        "color12": "#EAB995",
+        "color13": "#C8A7A1",
+        "color14": "#F6C994",
+        "color15": "#f3e3c9"
+    }
+}

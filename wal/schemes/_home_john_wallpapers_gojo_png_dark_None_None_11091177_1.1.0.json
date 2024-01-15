@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/john/wallpapers/gojo.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#e7e7e6",
+        "cursor": "#e7e7e6"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#7E7E80",
+        "color2": "#919191",
+        "color3": "#9F9F9F",
+        "color4": "#B0AFAF",
+        "color5": "#C0C0BF",
+        "color6": "#D1D0D0",
+        "color7": "#e7e7e6",
+        "color8": "#a1a1a1",
+        "color9": "#7E7E80",
+        "color10": "#919191",
+        "color11": "#9F9F9F",
+        "color12": "#B0AFAF",
+        "color13": "#C0C0BF",
+        "color14": "#D1D0D0",
+        "color15": "#e7e7e6"
+    }
+}

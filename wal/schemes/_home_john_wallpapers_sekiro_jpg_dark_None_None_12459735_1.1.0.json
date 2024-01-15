@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/john/wallpapers/sekiro.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1113",
+        "foreground": "#d7d8d8",
+        "cursor": "#d7d8d8"
+    },
+    "colors": {
+        "color0": "#0f1113",
+        "color1": "#D59270",
+        "color2": "#6A7688",
+        "color3": "#9E7787",
+        "color4": "#77899A",
+        "color5": "#9D9DA7",
+        "color6": "#D7A49E",
+        "color7": "#d7d8d8",
+        "color8": "#969797",
+        "color9": "#D59270",
+        "color10": "#6A7688",
+        "color11": "#9E7787",
+        "color12": "#77899A",
+        "color13": "#9D9DA7",
+        "color14": "#D7A49E",
+        "color15": "#d7d8d8"
+    }
+}

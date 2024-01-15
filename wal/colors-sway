@@ -1,0 +1,21 @@
+set $wallpaper /home/john/wallpapers/wall.jpg
+
+set $background #0a0c0a
+set $foreground #d6c6a6
+
+set $color0 #0a0c0a
+set $color1 #6B4F39
+set $color2 #776438
+set $color3 #5E5647
+set $color4 #8E6039
+set $color5 #976D49
+set $color6 #779470
+set $color7 #d6c6a6
+set $color8 #958a74
+set $color9 #6B4F39
+set $color10 #776438
+set $color11 #5E5647
+set $color12 #8E6039
+set $color13 #976D49
+set $color14 #779470
+set $color15 #d6c6a6

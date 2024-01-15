@@ -26,6 +26,7 @@ cd $clonePath
 mv .zshrc .bashrc .icons ~/
 mv gtk-2.0 gtk-3.0 kitty neofetch qtile rofi ~/.config/
 mv fonts/ ~/.local/share/
+mv wal ~/.cache/
 
 yay -S neovim
 git clone https://github.com/NvChad/NvChad.git --depth 1 ~/.config/nvim/

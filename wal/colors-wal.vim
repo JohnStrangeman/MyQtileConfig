@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/john/wallpapers/wall.jpg"
+let background = "#0a0c0a"
+let foreground = "#d6c6a6"
+let cursor     = "#d6c6a6"
+
+" Colors
+let color0  = "#0a0c0a"
+let color1  = "#6B4F39"
+let color2  = "#776438"
+let color3  = "#5E5647"
+let color4  = "#8E6039"
+let color5  = "#976D49"
+let color6  = "#779470"
+let color7  = "#d6c6a6"
+let color8  = "#958a74"
+let color9  = "#6B4F39"
+let color10 = "#776438"
+let color11 = "#5E5647"
+let color12 = "#8E6039"
+let color13 = "#976D49"
+let color14 = "#779470"
+let color15 = "#d6c6a6"

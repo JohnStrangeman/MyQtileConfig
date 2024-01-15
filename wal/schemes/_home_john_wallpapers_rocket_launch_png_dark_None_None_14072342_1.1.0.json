@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/john/wallpapers/rocket_launch.png",
+    "alpha": "100",
+    "special": {
+        "background": "#272d43",
+        "foreground": "#d2dce9",
+        "cursor": "#d2dce9"
+    },
+    "colors": {
+        "color0": "#272d43",
+        "color1": "#9B93B3",
+        "color2": "#D1939D",
+        "color3": "#99A3CF",
+        "color4": "#ADB2D5",
+        "color5": "#C7B9D2",
+        "color6": "#B2C2DE",
+        "color7": "#d2dce9",
+        "color8": "#939aa3",
+        "color9": "#9B93B3",
+        "color10": "#D1939D",
+        "color11": "#99A3CF",
+        "color12": "#ADB2D5",
+        "color13": "#C7B9D2",
+        "color14": "#B2C2DE",
+        "color15": "#d2dce9"
+    }
+}

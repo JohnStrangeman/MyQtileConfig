@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/john/wallpapers/japan_mountain_pink.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#39070f",
+        "foreground": "#efe0e2",
+        "cursor": "#efe0e2"
+    },
+    "colors": {
+        "color0": "#39070f",
+        "color1": "#A14F5E",
+        "color2": "#CC586B",
+        "color3": "#B67883",
+        "color4": "#D87686",
+        "color5": "#E69DAA",
+        "color6": "#E8B9C1",
+        "color7": "#efe0e2",
+        "color8": "#a79c9e",
+        "color9": "#A14F5E",
+        "color10": "#CC586B",
+        "color11": "#B67883",
+        "color12": "#D87686",
+        "color13": "#E69DAA",
+        "color14": "#E8B9C1",
+        "color15": "#efe0e2"
+    }
+}

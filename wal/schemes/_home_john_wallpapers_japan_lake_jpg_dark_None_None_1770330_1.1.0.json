@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/john/wallpapers/japan_lake.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1b1b",
+        "foreground": "#f5f5f5",
+        "cursor": "#f5f5f5"
+    },
+    "colors": {
+        "color0": "#1b1b1b",
+        "color1": "#CCCCCC",
+        "color2": "#D7D7D7",
+        "color3": "#E4E4E4",
+        "color4": "#EBEBEB",
+        "color5": "#F4F4F4",
+        "color6": "#FAFAFA",
+        "color7": "#f5f5f5",
+        "color8": "#ababab",
+        "color9": "#CCCCCC",
+        "color10": "#D7D7D7",
+        "color11": "#E4E4E4",
+        "color12": "#EBEBEB",
+        "color13": "#F4F4F4",
+        "color14": "#FAFAFA",
+        "color15": "#f5f5f5"
+    }
+}

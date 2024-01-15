@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/john/wallpapers/japan_tower_pink.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#2d0d15",
+        "foreground": "#eabac8",
+        "cursor": "#eabac8"
+    },
+    "colors": {
+        "color0": "#2d0d15",
+        "color1": "#CB496B",
+        "color2": "#CE617E",
+        "color3": "#BD6C82",
+        "color4": "#DA6887",
+        "color5": "#E27895",
+        "color6": "#E4829D",
+        "color7": "#eabac8",
+        "color8": "#a3828c",
+        "color9": "#CB496B",
+        "color10": "#CE617E",
+        "color11": "#BD6C82",
+        "color12": "#DA6887",
+        "color13": "#E27895",
+        "color14": "#E4829D",
+        "color15": "#eabac8"
+    }
+}

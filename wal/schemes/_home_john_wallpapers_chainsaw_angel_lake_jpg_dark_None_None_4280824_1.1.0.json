@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/john/wallpapers/chainsaw_angel_lake.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#140e10",
+        "foreground": "#e2d4d8",
+        "cursor": "#e2d4d8"
+    },
+    "colors": {
+        "color0": "#140e10",
+        "color1": "#8E7C86",
+        "color2": "#C47E81",
+        "color3": "#988791",
+        "color4": "#AB9196",
+        "color5": "#B39BA8",
+        "color6": "#CEA6A9",
+        "color7": "#e2d4d8",
+        "color8": "#9e9497",
+        "color9": "#8E7C86",
+        "color10": "#C47E81",
+        "color11": "#988791",
+        "color12": "#AB9196",
+        "color13": "#B39BA8",
+        "color14": "#CEA6A9",
+        "color15": "#e2d4d8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/john/wallpapers/nier_mech.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040404",
+        "foreground": "#dcdcd8",
+        "cursor": "#dcdcd8"
+    },
+    "colors": {
+        "color0": "#040404",
+        "color1": "#83837D",
+        "color2": "#999A90",
+        "color3": "#B5B7AE",
+        "color4": "#C0BFB6",
+        "color5": "#BEC0B5",
+        "color6": "#C4C4BA",
+        "color7": "#dcdcd8",
+        "color8": "#9a9a97",
+        "color9": "#83837D",
+        "color10": "#999A90",
+        "color11": "#B5B7AE",
+        "color12": "#C0BFB6",
+        "color13": "#BEC0B5",
+        "color14": "#C4C4BA",
+        "color15": "#dcdcd8"
+    }
+}
