@@ -25,6 +25,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 cd $clonePath
 mv .zshrc .bashrc ~/
 mv gtk-2.0 gtk-3.0 kitty neofetch qtile rofi ~/.config/
+mv fonts/ ~/.local/share/
 
 yay -S neovim
 git clone https://github.com/NvChad/NvChad.git --depth 1 ~/.config/nvim/
