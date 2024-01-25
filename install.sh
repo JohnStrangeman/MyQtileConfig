@@ -1,15 +1,15 @@
 #!/bin/bash
 
 CLONEPATH=${pwd}
-if [ -d ~/Clone ]
+if [ -d $HOME/Clone ]
 then
     echo "~/Clone directory exists..."
-    rm -rf ~/Clone/
+    rm -rf $HOME/Clone/
 fi
 
-mkdir -p ~/Clone/yay-bin
+mkdir -p $HOME/Clone/yay-bin
 git clone https://aur.archlinux.org/yay-bin.git ~/Clone/yay-bin
-cd ~/Clone/yay-bin/
+cd $HOME/Clone/yay-bin/
 makepkg -si
 
 yay -Syy
@@ -23,10 +23,11 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 
 cd $CLONEPATH
-mv .zshrc .bashrc .icons wallpapers ~/
-mv gtk-2.0 gtk-3.0 kitty neofetch qtile rofi ~/.config/
-mv fonts/ ~/.local/share/
-mv wal ~/.cache/
+
+mv -t $HOME/ .zshrc .bashrc .icons wallpapers 
+mv -t $HOME/.config/ gtk-2.0 gtk-3.0 kitty neofetch qtile rofi
+mv -t $HOME/.local/share/ fonts/
+mv -t $HOME/.cache/ wal
 
 yay -S neovim
 git clone https://github.com/NvChad/NvChad.git --depth 1 ~/.config/nvim/
