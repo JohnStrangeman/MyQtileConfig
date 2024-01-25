@@ -2,4 +2,4 @@
 
 dunst &
 
-~/.config/qtile/scripts/wallpaper.sh init
+wal -q -i ~/wallpapers/

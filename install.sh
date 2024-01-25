@@ -14,7 +14,7 @@ makepkg -si
 
 yay -Syy
 
-yay -S gtk3 gtk2 kitty neofetch qtile qtile-extras lightdm lightdm-gtk-greeter rofi python eza oh-my-zsh-git zsh-theme-powerlevel10k-git pokemon-colorscripts-git alsa-utils alsa-lib alsa-capabilities pywal alacritty --needed --noconfirm
+yay -S gtk3 gtk2 kitty neofetch qtile qtile-extras lightdm lightdm-gtk-greeter rofi python eza oh-my-zsh-git zsh-theme-powerlevel10k-git pokemon-colorscripts-git alsa-utils alsa-lib alsa-capabilities pywal alacritty pyhton-dbus-next python-iwlib --needed --noconfirm
 systemctl enable lightdm.service 
 
 mkdir $ZSH_CUSTOM/plugins
