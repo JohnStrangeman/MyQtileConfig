@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CLONEPATH = ${pwd}
+CLONEPATH=${pwd}
 if [ -d ~/Clone ]
 then
     echo "~/Clone directory exists..."
