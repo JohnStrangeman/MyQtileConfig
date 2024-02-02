@@ -81,6 +81,8 @@ keys = [
     Key([mod], "w", lazy.spawn(f"wal -q -i {home}/wallpapers/"), desc="Update Theme and Wallpaper"),
     Key([mod], "a", lazy.spawn("rofi -show drun"), desc="Launch Rofi"),
     Key([mod], "m", lazy.spawn(f"{home}/.config/qtile/scripts/powermenu.sh"), desc="Show power menu"),
+    Key([mod], "Backspace", lazy.spawn("shutdown now"), desc="Shutdown"),
+    Key([mod, "control"], "Backspace", lazy.spawn("reboot"), desc="reboot"),
 
     # F keys
     Key([mod], "XF86AudioRaiseVolume", lazy.spawn("amixer sset Master 5%+")),
@@ -252,4 +254,5 @@ def autostart():
     autostartscript = "~/.config/qtile/autostart.sh"
     home = os.path.expanduser(autostartscript)
     subprocess.Popen([home])
+    lazy.reload_config();
 
