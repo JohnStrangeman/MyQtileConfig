@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CLONEPATH=${pwd}
+CLONEPATH=$PWD
 if [ -d $HOME/Clone ]
 then
     echo "~/Clone directory exists..."
@@ -39,6 +39,5 @@ systemctl start libvirtd.service
 usermod -a -G libvirt $(whoami)
 systemctl restart libvirtd.service
 
-echo "greeter-session=lightdm-gtk3-greeter" > /etc/lightdm/lightdm.conf
-systemctl enable lightdm.service 
+systemctl enable lightdm 
 reboot
