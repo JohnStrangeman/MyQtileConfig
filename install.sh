@@ -14,18 +14,19 @@ makepkg -si
 
 yay -Syy
 
-yay -S gtk3 gtk2 kitty neofetch qtile qtile-extras lightdm lightdm-gtk-greeter rofi python eza oh-my-zsh-git zsh-theme-powerlevel10k-git pokemon-colorscripts-git alsa-utils alsa-lib alsa-capabilities pywal alacritty pyhton-dbus-next python-iwlib --needed --noconfirm
+yay -S gtk3 gtk2 kitty neofetch qtile qtile-extras lightdm lightdm-gtk-greeter rofi python eza oh-my-zsh-git zsh-theme-powerlevel10k-git pokemon-colorscripts-git alsa-utils alsa-lib alsa-capabilities pywal alacritty pyhton-dbus-next python-iwlib python-psutil zsh-syntax-highlighting-git --needed --noconfirm
 
 mkdir $ZSH_CUSTOM/plugins
 cd $ZSH_CUSTOM/plugins && git clone https://github.com/chrissicool/zsh-256color
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 
 cd $CLONEPATH
 
 mv -t $HOME/ .zshrc .bashrc .icons wallpapers 
 mv -t $HOME/.config/ gtk-2.0 gtk-3.0 kitty neofetch qtile rofi
+mkdir $HOME/.local/share/
 mv -t $HOME/.local/share/ fonts/
+rm -rf $HOME/.cache/wal/
 mv -t $HOME/.cache/ wal
 
 yay -S neovim
